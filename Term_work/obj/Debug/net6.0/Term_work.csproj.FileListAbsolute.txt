@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\Final\Term_work\bin\Debug\net6.0\Term_work.exe
+C:\Users\Sergey\Desktop\Final\Term_work\bin\Debug\net6.0\Term_work.deps.json
+C:\Users\Sergey\Desktop\Final\Term_work\bin\Debug\net6.0\Term_work.runtimeconfig.json
+C:\Users\Sergey\Desktop\Final\Term_work\bin\Debug\net6.0\Term_work.dll
+C:\Users\Sergey\Desktop\Final\Term_work\bin\Debug\net6.0\Term_work.pdb
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.dll
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\refint\Term_work.dll
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.pdb
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\Term_work.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\Final\Term_work\obj\Debug\net6.0\ref\Term_work.dll
